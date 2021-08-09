@@ -14,10 +14,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "if-env": "^1.0.4"
-  },
   "devDependencies": {
-    "concurrently": "^5.1.0"
+    "concurrently": "^6.2.0"
   }
 }
